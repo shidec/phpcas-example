@@ -9,7 +9,7 @@ phpCAS implementation on CodeIgniter Framework
 		libraries/Cas.php
 		controllers/Welcome.php
 	
-## B. INSTALASI	
+## B. INSTALLATION	
 1. Download phpCAS library from https://github.com/apereo/phpCAS . Copy it to your project folder.
 2. Copy all files included in example to the appropriate location. (config, libraries, controllers)
 3. Edit config/cas.php as needed.
